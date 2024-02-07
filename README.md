@@ -1,10 +1,11 @@
 # Admin Dashboard for Laravel
 
-![Admin Dashboard Preview](dashboard-preview.png)
+![Admin Dashboard Preview](admin_dashboard.png)
 
 This repository contains a sleek and modern admin dashboard built using Laravel, designed to simplify administrative tasks and provide insightful data visualization.
 
 ## Features
+![admin_dashboard](https://github.com/SandipCB/Admin_Page/assets/96263756/81c9d8a6-990b-454a-9020-ae5e1369ed46)
 
 🚀 **User Management:** Effortlessly manage user accounts, permissions, and roles within your application.
 
