@@ -29,4 +29,5 @@ Contributions are welcomed! If you'd like to contribute to this project, please 
 
 This project is licensed under the https://github.com/SandipCB/ - for anything contact with Owner.
 
+This is the "Admin Dashboard" for any website. All copyrights are reserved by Sandip Chakraborty (the owner of this git). 
 ---
